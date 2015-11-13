@@ -3,4 +3,8 @@ It's work! That is fine! :)
 I chanched brach to develop!
 aide de
 edit from rangel
+<<<<<<< HEAD
 I am rangel and want to push
+=======
+I am randjo and i have akses to rangelvm/test.
+>>>>>>> 6a209fb6d9ea7ab4c99d773037ccad4e0d042901
