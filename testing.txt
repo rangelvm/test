@@ -3,5 +3,10 @@ It's work! That is fine! :)
 I chanched brach to develop!
 aide de
 edit from rangel
+
 I am randjo and i have akses to rangelvm/test.
 Pak testvam ot randjo to rangel.
+
+I am rangel and want to push
+I am randjo and i have akses to rangelvm/test.
+After merge.
